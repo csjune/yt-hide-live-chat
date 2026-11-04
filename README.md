@@ -6,7 +6,10 @@ A userscript that closes the live chat YouTube opens on its own when you open a 
 
 1. Install a userscript manager, such as [Violentmonkey](https://violentmonkey.github.io/) (Firefox) or [ScriptCat](https://scriptcat.org/) (Chrome).
    In Chrome, also turn on **Allow User Scripts** for the manager in `chrome://extensions`.
-2. Open the script and install it:
+2. Install the script from Greasy Fork:
+   https://greasyfork.org/scripts/603730-youtube-hide-live-chat-by-default
+
+   Installing from Greasy Fork gives you automatic updates. To try the latest code from this repository instead, open
    https://raw.githubusercontent.com/csjune/yt-hide-live-chat/main/yt-hide-live-chat.user.js
 
 ## What it does
