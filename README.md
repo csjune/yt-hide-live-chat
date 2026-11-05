@@ -17,7 +17,6 @@ A userscript that closes the live chat YouTube opens on its own when you open a 
 - When YouTube opens the live chat by itself, the script closes it with the chat's own close button.
 - If you open the chat yourself, it is left open for that video.
 - Also works when you click through to another video without a page reload, and in background tabs (it starts once you switch to the tab).
-- In narrow windows YouTube does not open the chat by itself, so there is nothing to close.
 
 ## Requirements
 

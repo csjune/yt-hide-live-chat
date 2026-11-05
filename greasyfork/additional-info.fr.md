@@ -5,7 +5,6 @@ Ferme le chat en direct que YouTube ouvre tout seul quand vous ouvrez une vidéo
 - Quand YouTube ouvre le chat en direct de lui-même, le script le ferme avec le bouton de fermeture du chat.
 - Si vous ouvrez le chat vous-même, il reste ouvert pour cette vidéo.
 - Fonctionne aussi quand vous passez à une autre vidéo sans recharger la page, et dans les onglets en arrière-plan (il démarre quand vous affichez l'onglet).
-- Dans les fenêtres étroites, YouTube n'ouvre pas le chat de lui-même : il n'y a donc rien à fermer.
 
 ## Prérequis
 

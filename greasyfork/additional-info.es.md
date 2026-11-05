@@ -5,7 +5,6 @@ Cierra el chat en directo que YouTube abre solo cuando abres un vídeo con chat,
 - Cuando YouTube abre el chat en directo por su cuenta, el script lo cierra con el propio botón de cerrar del chat.
 - Si abres el chat tú, se queda abierto en ese vídeo.
 - También funciona cuando pasas a otro vídeo sin recargar la página y en pestañas en segundo plano (empieza cuando cambias a la pestaña).
-- En ventanas estrechas YouTube no abre el chat solo, así que no hay nada que cerrar.
 
 ## Requisitos
 

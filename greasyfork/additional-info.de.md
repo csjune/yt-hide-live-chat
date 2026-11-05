@@ -5,7 +5,6 @@ Schließt den Livechat, den YouTube von selbst öffnet, wenn du ein Video mit Li
 - Öffnet YouTube den Livechat von selbst, schließt ihn das Skript über die Schließen-Schaltfläche des Chats.
 - Öffnest du den Chat selbst, bleibt er bei diesem Video offen.
 - Funktioniert auch, wenn du ohne Neuladen zu einem anderen Video wechselst, und in Hintergrund-Tabs (es startet, sobald du zum Tab wechselst).
-- In schmalen Fenstern öffnet YouTube den Chat nicht von selbst, es gibt also nichts zu schließen.
 
 ## Voraussetzungen
 

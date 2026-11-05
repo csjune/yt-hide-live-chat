@@ -5,7 +5,6 @@ Fecha o chat ao vivo que o YouTube abre sozinho quando você abre um vídeo com 
 - Quando o YouTube abre o chat ao vivo por conta própria, o script o fecha com o botão de fechar do próprio chat.
 - Se você mesmo abrir o chat, ele continua aberto nesse vídeo.
 - Também funciona quando você passa para outro vídeo sem recarregar a página e em abas em segundo plano (começa quando você muda para a aba).
-- Em janelas estreitas o YouTube não abre o chat sozinho, então não há nada para fechar.
 
 ## Requisitos
 
